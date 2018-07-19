@@ -1,0 +1,8 @@
+c:\users\p534722\documents\visual studio 2013\Projects\ProjetoWCF\ProjetoWCF\bin\ProjetoWCF.dll.config
+c:\users\p534722\documents\visual studio 2013\Projects\ProjetoWCF\ProjetoWCF\bin\ProjetoWCF.dll
+c:\users\p534722\documents\visual studio 2013\Projects\ProjetoWCF\ProjetoWCF\bin\ProjetoWCF.pdb
+c:\users\p534722\documents\visual studio 2013\Projects\ProjetoWCF\ProjetoWCF\bin\EntityFramework.dll
+c:\users\p534722\documents\visual studio 2013\Projects\ProjetoWCF\ProjetoWCF\bin\EntityFramework.xml
+c:\users\p534722\documents\visual studio 2013\Projects\ProjetoWCF\ProjetoWCF\obj\Debug\ProjetoWCF.dll
+c:\users\p534722\documents\visual studio 2013\Projects\ProjetoWCF\ProjetoWCF\obj\Debug\ProjetoWCF.pdb
+c:\users\p534722\documents\visual studio 2013\Projects\ProjetoWCF\ProjetoWCF\obj\Debug\ProjetoWCF.csprojResolveAssemblyReference.cache
